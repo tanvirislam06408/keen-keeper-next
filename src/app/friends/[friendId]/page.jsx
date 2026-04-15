@@ -1,3 +1,4 @@
+import QuicIn from '@/components/QuickIn/QuicIn';
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
@@ -68,8 +69,9 @@ const FriendDetails = async({params}) => {
                 <div className=" col-span-3">
                   {/* <TimeBoard filteredFriend={filteredFriend}/>
                   <ContactGoal filteredFriend={filteredFriend}/>
-                  <QuicCkIn name={name}/>
+                  
                   <RecentInteractions name={name}/> */}
+                  <QuicIn name={name}/>
                 </div>
 
             </div>
