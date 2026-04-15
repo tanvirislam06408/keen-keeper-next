@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <footer className=" bg-[#244D3F] mt-32">
             <div className="footer footer-horizontal container mx-auto footer-center text-white rounded p-10">
-                <Image src={footerImg} alt="footerImg" />
+                <Image loading='eager' src={footerImg} alt="footerImg" />
                 <p  className='text-gray-300'>Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.</p>
                 <nav>
                     <h1 className='font-medium text-xl'>Social Links</h1>

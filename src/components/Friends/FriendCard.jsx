@@ -12,9 +12,10 @@ const FriendCard = ({ friend }) => {
 
     const { picture, name, email, days_since_contact, status, tags, next_due_date, bio, goal,id } = friend;
     return (
-        <Link href={`/friend/${id}`} className="card border border-gray-200 shadow-xl">
+        <Link href={`/friends/${id}`} className="card border border-gray-200 shadow-xl">
             <figure className="px-10 pt-10 ">
                 <Image
+                    loading='eager'
                     width={200}
                     height={200}
                     src={picture}

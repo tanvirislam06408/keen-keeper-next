@@ -5,7 +5,7 @@ import FriendCard from './FriendCard';
 
 
 const AllFriends = async () => {
-    const friendsPromise = await fetch('http://localhost:3000/friends.json');
+    const friendsPromise = await fetch('https://raw.githubusercontent.com/tanvirislam06408/keen-keeper-next/refs/heads/main/public/friends.json');
     const data = await friendsPromise.json();
     
 
