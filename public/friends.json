@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Aisha Rahman",
+    "picture": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=150&h=150",
+    "email": "aisha.rahman@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Roommates during undergrad at BUET. She moved to Toronto after grad school but we still try to catch up regularly.",
+    "goal": 14,
+    "next_due_date": "2025-07-14"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Webb",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150&h=150",
+    "email": "marcus.webb@outlook.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "Former team lead at my first job. Taught me everything about shipping products under pressure. Still grab coffee every few weeks.",
+    "goal": 14,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 3,
+    "name": "Priya Nair",
+    "picture": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?auto=format&fit=crop&q=80&w=150&h=150",
+    "email": "priya.nair@yahoo.com",
+    "days_since_contact": 27,
+    "status": "overdue",
+    "tags": ["childhood", "family friend"],
+    "bio": "Grew up two houses apart. Our families have been close for decades. She's a pediatrician now in Bangalore.",
+    "goal": 21,
+    "next_due_date": "2025-07-05"
+  },
+  {
+    "id": 4,
+    "name": "Tariq Hossain",
+    "picture": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=150&h=150",
+    "email": "tariq.hossain@protonmail.com",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["college", "travel buddy"],
+    "bio": "Met during a backpacking trip through Southeast Asia. We've since traveled to 8 countries together. Huge football fan.",
+    "goal": 14,
+    "next_due_date": "2025-07-18"
+  },
+  {
+    "id": 5,
+    "name": "Sofia Hernandez",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150&h=150",
+    "email": "sofia.h@gmail.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["work", "close friend"],
+    "bio": "We bonded over late-night debugging sessions at a startup. She's now a freelance UX designer and always gives brutally honest feedback.",
+    "goal": 14,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 6,
+    "name": "James Okafor",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=150&h=150",
+    "email": "james.okafor@gmail.com",
+    "days_since_contact": 42,
+    "status": "overdue",
+    "tags": ["gym", "neighbour"],
+    "bio": "Old gym partner from the neighbourhood. We used to train together every Saturday morning. He relocated to London last year.",
+    "goal": 30,
+    "next_due_date": "2025-06-28"
+  },
+  {
+    "id": 7,
+    "name": "Nadia Chowdhury",
+    "picture": "https://images.unsplash.com/photo-1589156280159-27698a70f29e?auto=format&fit=crop&q=80&w=150&h=150",
+    "email": "nadia.chowdhury@hotmail.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["family friend", "close friend"],
+    "bio": "Our parents introduced us at a community event when we were teenagers. She's one of the most grounded people I know — now runs her own bakery.",
+    "goal": 10,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 8,
+    "name": "Ethan Park",
+    "picture": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=150&h=150",
+    "email": "ethan.park@icloud.com",
+    "days_since_contact": 19,
+    "status": "almost due",
+    "tags": ["college", "gaming"],
+    "bio": "Met in a computer science elective. We still play games online together on weekends. He's doing his PhD in machine learning at MIT.",
+    "goal": 21,
+    "next_due_date": "2025-07-17"
+  }
+]
